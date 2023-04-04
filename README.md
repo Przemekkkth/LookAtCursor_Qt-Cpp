@@ -6,7 +6,7 @@ An app that visualizes multiple eyes staring at a cursor. It is based on [reposi
 
 ![Image](https://user-images.githubusercontent.com/28188300/229716629-fc808559-1224-4066-98e6-9af36bca66be.gif)
 
-### Installin
+### Installing
 A step by step series  that tell you how to get a execute project.
 Get it from GitHub
 ```
